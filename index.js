@@ -1,1 +1,1 @@
-var recipes = {"brownies" : "chocolate"}
+var recipes = new.Object()
